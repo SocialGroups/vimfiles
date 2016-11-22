@@ -1,4 +1,4 @@
-pedrofranceschi's vimfiles
+Lucas Santos vimfiles
 ========
 
 These are my vimfiles. I created them almost from scratch when I started using Vim and adapted them to my needs.
@@ -48,7 +48,7 @@ Go to your home directory:
 Clone my vimfiles repo:
 
 
-    git clone --recursive https://github.com/pedrofranceschi/vimfiles.git .vim
+    git clone --recursive https://github.com/SocialGroups/vimfiles.git .vim
 
 Open "Monaco-Powerline.otf" and click "Install font" to install Powerline's font which supports fancy characters.
 
